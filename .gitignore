@@ -1,7 +1,4 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
-
+#Project Python Discord Bot Charater IA
 .env
+__pycache__/
+*.pyc
