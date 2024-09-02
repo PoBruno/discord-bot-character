@@ -1,4 +1,4 @@
-#Mongatron Discord Bot
+# Mongatron Discord Bot
 
 Mongatron é um bot de Discord que interage como um personagem de IA, utilizando a API do ChatGPT. Ele responde às mensagens prefixadas com "mongatron" e também pode responder aleatoriamente às mensagens no servidor.
 
